@@ -9,9 +9,9 @@ title:              DS4PS
 description:        Intro. course in data-drive management
 
 # Site subpath, e.g. /blog
-url :               "https://ds4ps.github.io"
+url :               "https://lecy.github.io"   
 baseurl:            "/cpp-523-fall-2019"
-course_url:         "http://ds4ps.org/cpp-523-fall-2019/"
+course_url:         "https://lecy.github.io/cpp-523-fall-2019/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -48,7 +48,7 @@ author:
     github:     lecy   # Github username for avatar
 
 github_info:
-    username:          DS4PS # Github location of the course
+    username:          lecy # Github location of the course
     branch:            master
     website-repo:      cpp-523-fall-2019
     course-repo:       cpp-523-fall-2019
@@ -84,7 +84,7 @@ disqus:
     shortname:      1234
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:   UA-123960540-4
+google_analytics:   
 
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
 google_maps_api_key:
